@@ -237,5 +237,11 @@ GC%  52.17
 length : 23
 
 
+
+Specificity of primersPrimer pairs are specific to input template as no other targets were found in selected database: Eukaryotic genomes (Refseq representative primary assembly + mitochondrion + plastid ) (Organism limited to Homo sapiens)
+
+
+![Screenshot 2026-01-19 200051](https://github.com/user-attachments/assets/61f1f5e9-d92f-44e0-8e93-eb7cc18fc51a)
+
   
   
