@@ -16,6 +16,14 @@ https://zenodo.org/records/4249555 [SRR1552444, SRR1552445, SRR1552446, SRR15524
 
 6.Observed quality metrics such as per-base sequence quality, GC content, and adapter content
 
+7.Go to tools and run trim gallore
+
+8. Run bowtie2
+
+9. run feature counts
+
+10. run deseq2
+
 # FASTQC result ( SRR1552447)
 
 1.per base sequence quality
@@ -29,6 +37,31 @@ https://zenodo.org/records/4249555 [SRR1552444, SRR1552445, SRR1552446, SRR15524
 3.Adaptor content
 
 ![Screenshot 2026-01-19 175338](https://github.com/user-attachments/assets/16bc0807-bd62-4da0-8888-0d987e5489bf)
+
+
+# Observation
+Reads are good initially but 3' end trimming is recommended before downstream analysis
+
+
+# Trim gallore
+it trims low quality 3' ends and adapters,improving read quality some reads may become shorter or removed.after trimming the overall read quality improves.
+
+# Bowtie2
+
+bowtie2 is a fast aligner used to map trimmed sequencing reads to a reference genome after quality controlHigh-quality trimmed reads were aligned to the reference genome using Bowtie2.
+
+![Screenshot 2026-01-19 182051](https://github.com/user-attachments/assets/ec5e5164-3e2c-43d4-a624-c67df020d740)
+
+
+# Feature counts
+
+it is used to convert reads mapped to genes from aligned BAM files for downstream expression analysis
+
+![Screenshot 2026-01-19 182112](https://github.com/user-attachments/assets/9ff5f17e-5cb8-48fb-b868-a137c2d3a173)
+
+
+
+
 
 
 
