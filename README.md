@@ -179,3 +179,63 @@ SARS-CoV-2 in India: First case detected in January 2020. Symptoms include fever
 
 Variants of Interest (VOI) & Variants of Concern (VOC): Alpha (B.1.1.7), Delta (B.1.617.2), Gamma, etc. VOCs show: Increased transmissibility, Immune escape potential, Higher viral load. Classification based on genetic mutations and epidemiological impact.
 
+
+
+
+
+# Virtual Design and Specificity Testing of GAPDH PCR Primers
+
+Gene name:"Human GAPDH"
+
+gene id: 2597
+
+# Primer sequences
+
+Primer pair 1
+
+	Sequence (5'->3')
+
+  Forward primer	CGTCGCCAGCCGAGC
+
+  tm:60.64
+
+  GC% : 80.00
+
+  length : 15
+
+  Reverse primer	GCCCAATACGACCAAATCCG
+
+  tm:59.34
+
+  GC% 55.00
+
+  length: 20
+
+
+  
+  
+
+Primer pair 2
+
+	Sequence (5'->3')
+
+  Forward primer	GCCAGCCGAGCCACAT
+
+  tm: 59.71
+
+  GC%  :68.75
+
+  length : 16
+
+  
+Reverse primer	GCCCAATACGACCAAATCCGTTG
+
+tm: 62.57
+
+GC%  52.17
+
+length : 23
+
+
+  
+  
