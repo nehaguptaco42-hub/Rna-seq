@@ -60,6 +60,16 @@ it is used to convert reads mapped to genes from aligned BAM files for downstrea
 ![Screenshot 2026-01-19 182112](https://github.com/user-attachments/assets/9ff5f17e-5cb8-48fb-b868-a137c2d3a173)
 
 
+# deseq2
+it is used to analyze differential genes expression by comparing read counts between conditions
+
+![Screenshot 2026-01-19 182816](https://github.com/user-attachments/assets/e0ceb5e8-31c6-4de0-a688-5ca4e3e3e3da)
+
+
+![Screenshot 2026-01-19 182928](https://github.com/user-attachments/assets/8b48beca-5f29-4600-8149-2136f8d08113)
+
+
+
 
 
 
