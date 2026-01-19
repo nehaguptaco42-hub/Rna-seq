@@ -67,6 +67,24 @@ it is used to analyze differential genes expression by comparing read counts bet
 
 
 ![Screenshot 2026-01-19 182928](https://github.com/user-attachments/assets/8b48beca-5f29-4600-8149-2136f8d08113)
+![Screenshot 2026-01-19 183258](https://github.com/user-attachments/assets/7d43d695-2ae5-4666-9ce1-a199e265f3ee)
+
+
+# Heatmap Analysis
+After differential expression analysis using DESeq2, a heatmap was generated from the normalized expression matrix.
+
+The heatmap visualizes gene expression patterns across samples.
+
+Rows represent genes (often top differentially expressed genes).
+
+Columns represent samples or conditions.
+
+Color intensity indicates relative expression levels (e.g., high vs low expression).
+
+Clustering helps identify: Similar expression profiles between samples. Groups of co-regulated genes
+
+
+
 
 
 
@@ -90,6 +108,12 @@ Primers in PCR: Short DNA sequences (18–25 bp). Define the region to be amplif
 Primers cannot be designed for any reaction without sequence information. Design depends on Tm, GC content, and specificity. Tools such as NCBI Primer-BLAST are used.
 
 Applications of PCR: Disease diagnosis, Research and cloning, Forensic analysis.Central Dogma of Molecular Biology
+
+
+
+
+# Central Dogma 
+
 The central dogma describes the flow of genetic information: DNA → RNA → Protein Replication: DNA makes identical copies of itself Transcription: DNA is transcribed into RNA Translation: RNA is translated into protein Post-translational modifications alter protein function These processes form the basis of genomics, transcriptomics, proteomics, and metabolomics, which together are studied in systems biology.
 
 transcription: DNA is read, not consumed, during transcription. Produces mRNA, which carries genetic information to ribosomes. Discovery of mRNA (1961) confirmed RNA acts as a messenger between DNA and protein. Key points: Occurs 5’ → 3’, RNA polymerase synthesizes RNA, Transcription is the foundation of gene expression analysis (RNA-seq, qPCR)
@@ -97,7 +121,6 @@ transcription: DNA is read, not consumed, during transcription. Produces mRNA, w
 tRNA as a Molecular Adaptor: tRNA (transfer RNA) delivers amino acids to ribosomes. Each tRNA binds a specific amino acid and matches it to mRNA codons. Confirms the adaptor hypothesis in protein synthesis. Role: Links nucleotide language (RNA) to amino acid language (protein).
 
 Reverse Transcription: Reverse transcription converts RNA → DNA (cDNA). Discovered by Howard Temin and David Baltimore (1970). Catalyzed by reverse transcriptase. Applications: RT-PCR, RNA-seq, Studying gene expression from RNA samples. This expands the central dogma beyond one-way flow.
-
 
 
 # FASTA file format:
