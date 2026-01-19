@@ -147,3 +147,35 @@ BLAST in Primer Design: Used to check primer specificity. Ensures primers bind o
 Basic Primer Design Rules: Length: 18–30 bases, GC content: 40–60%. Avoid: Secondary structures, Hairpins, Primer dimers Forward and reverse primers should have similar Tm (±5°C)
 
 Melting Temperature (Tm) in PCR: Factors influencing Tm -Primer length: Longer → higher Tm -GC content: Higher GC → higher Tm -Salt concentration: Higher salt → higher Tm-Primer concentration Use of Tm in PCR: Annealing temperature (Ta) ≈ Tm – 5°C
+
+
+
+
+# Heatmap Analysis
+After differential expression analysis using DESeq2, a heatmap was generated from the normalized expression matrix.
+
+The heatmap visualizes gene expression patterns across samples.
+
+Rows represent genes (often top differentially expressed genes).
+
+Columns represent samples or conditions.
+
+Color intensity indicates relative expression levels (e.g., high vs low expression).
+
+Clustering helps identify: Similar expression profiles between samples. Groups of co-regulated genes
+
+
+#  Molecular Epidemiology & Genomic Surveillance of SARS-CoV-2
+
+Molecular Epidemiology: Combines molecular biology + epidemiology to track infectious diseases. Uses genome sequencing to study transmission, evolution, and spread of pathogens. Helps identify sources of infection, outbreak patterns, and variant emergence.
+
+
+Genomic Surveillance in India (INSACOG): INSACOG: Indian SARS-CoV-2 Genomics Consortium. Objectives: Monitor emerging variants, Correlate variants with disease severity, Support public health decisions. Nationwide sequencing and data sharing.
+
+Role of Genomics in COVID-19: Genome sequencing enabled identification of SARS-CoV-2 variants. Helped trace introduction, transmission, and persistence of variants in India. Supported monitoring of mutation patterns and geographic spread.
+
+
+SARS-CoV-2 in India: First case detected in January 2020. Symptoms include fever, cough, breathlessness, loss of taste/smell. Genomic surveillance revealed multiple introductions and community transmission.
+
+Variants of Interest (VOI) & Variants of Concern (VOC): Alpha (B.1.1.7), Delta (B.1.617.2), Gamma, etc. VOCs show: Increased transmissibility, Immune escape potential, Higher viral load. Classification based on genetic mutations and epidemiological impact.
+
