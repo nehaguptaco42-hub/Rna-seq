@@ -1,10 +1,37 @@
 # Rna-seq
 notes regarding ngs analysis jan26
 
-#Workflow used for ma seq analysis using galaxy
+#Workflow used for rna seq analysis using galaxy
 
 1.Download files from For data download:
-https://zenodo.org/records/4249555 [SRR1552446
+https://zenodo.org/records/4249555 [SRR1552444, SRR1552445, SRR1552446, SRR1552447]
+
+2.open galaxy https://usegalaxy.org/
+
+3.upload the following files SRR1552444, SRR1552445, SRR1552446, SRR1552447
+
+4.go to tools and select FASTQ read quality reports
+
+5.Ran FastQC for quality control analysis
+
+6.Observed quality metrics such as per-base sequence quality, GC content, and adapter content
+
+# FASTQC result ( SRR1552447)
+
+1.per base sequence quality
+
+![Screenshot 2026-01-19 175145](https://github.com/user-attachments/assets/4e28838e-fd16-48b9-8f29-6a13bc627c0e)
+
+2.Overrepresented sequences
+
+![Screenshot 2026-01-19 175301](https://github.com/user-attachments/assets/52e5621b-65cf-44cb-ad4f-0b6376d634fa)
+
+3.Adaptor content
+
+![Screenshot 2026-01-19 175338](https://github.com/user-attachments/assets/16bc0807-bd62-4da0-8888-0d987e5489bf)
+
+
+
 
 
 # Learned about
@@ -29,7 +56,6 @@ tRNA as a Molecular Adaptor: tRNA (transfer RNA) delivers amino acids to ribosom
 Reverse Transcription: Reverse transcription converts RNA → DNA (cDNA). Discovered by Howard Temin and David Baltimore (1970). Catalyzed by reverse transcriptase. Applications: RT-PCR, RNA-seq, Studying gene expression from RNA samples. This expands the central dogma beyond one-way flow.
 
 
-# 
 
 # FASTA file format:
 it is used for sequencing.it contains only sequence information
