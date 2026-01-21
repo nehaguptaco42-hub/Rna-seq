@@ -404,6 +404,16 @@ Metabolic; Disease-related (linked to diabetes)
 
 # Classification & Interpretation
 
+Organism type: Eukaryotic
+
+Conservation: Conserved across species
+
+
+# Conclusion
+
+The given unknown sequence is identified as  Homo sapiens insulin (INS) gene from Homo sapien organism. BLAST analysis shows a % identity of 100.00% and an E-value of 4e-120 indicating a strong match
+
+
 
 
 
