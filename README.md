@@ -246,8 +246,7 @@ Specificity of primersPrimer pairs are specific to input template as no other ta
 
 
 
-#  Identify an Unknown Biological
-Sequence Using BLAST 
+#  Identify an Unknown Biological Sequence Using BLAST 
 
 1.Go to website https://blast.ncbi.nlm.nih.gov
 
@@ -262,7 +261,10 @@ Sequence Using BLAST
 
 Sequence Observation
 
-Given sequence number (Sequence 1):
+Given sequence number
+
+(Sequence 1):
+
 1 CGGACACACAAAAAGAAAGAAGAATTTTTA GGATCTTTTGTGTGCGAATAACTATGAGGA
 61 AGATTAATAATTTTCCTCTCATTGAAATTTATATCGGAATTTAAATTGAAATTGTTACTG
 121 TAATCACACCTGGTTTGTTTCAGAGCCACATCACAAAGATAGAGAACAACCTAGGTCTCC
