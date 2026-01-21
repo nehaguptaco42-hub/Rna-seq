@@ -183,6 +183,11 @@ Variants of Interest (VOI) & Variants of Concern (VOC): Alpha (B.1.1.7), Delta (
 
 
 
+
+
+
+
+
 # Virtual Design and Specificity Testing of GAPDH PCR Primers
 
 Gene name:"Human GAPDH"
@@ -242,6 +247,11 @@ Specificity of primersPrimer pairs are specific to input template as no other ta
 
 
 ![Screenshot 2026-01-19 200051](https://github.com/user-attachments/assets/61f1f5e9-d92f-44e0-8e93-eb7cc18fc51a)
+
+
+
+
+
 
 
 
