@@ -1,4 +1,4 @@
-# Rna-seq
+<img width="1825" height="880" alt="image" src="https://github.com/user-attachments/assets/161a3174-d41c-46e8-bfce-6a4c3c54e6d6" /># Rna-seq
 notes regarding ngs analysis jan26
 
 #Workflow used for rna seq analysis using galaxy
@@ -262,16 +262,12 @@ Given sequence number (Sequence 1):
 
 DNA (contains A, T, G, C only)
 
-OR Protein (contains amino acid letters like M, L, K, W)
-
 
 # BLAST Tool Selection
 
 BLAST program used:
 
 BLASTn for DNA sequences
-
-BLASTp for protein sequences 
 
 ![Screenshot 2026-01-21 212256](https://github.com/user-attachments/assets/0c1c9540-89e9-4dfb-9fb1-14d619377049)
 
@@ -281,7 +277,7 @@ BLASTp for protein sequences
 
 (Top Hit Analysis)
 
-Gene or protein name:Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-BDBV_GP, complete genome
+Gene or protein name:Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-BDBV_GP
 
 Organism name : Zaire ebolavirus
 
@@ -289,7 +285,9 @@ Database used : core_nt
 
 Percentage identity :100.00%
 
-E-value: 4e-109![Screenshot 2026-01-21 212328](https://github.com/user-attachments/assets/de403282-067a-4e09-9071-a7e9f56295dd)
+E-value:4e-109
+
+![Screenshot 2026-01-21 212328](https://github.com/user-attachments/assets/de403282-067a-4e09-9071-a7e9f56295dd)
 
 
 # Alignment Interpretation
@@ -332,6 +330,88 @@ The sequence is species-specific, as it shows a 100% match to the Zaire ebolavir
 
 
 The given unknown sequence is identified as gene from Zaire ebolavirus organism. BLAST analysis shows a % identity of 100.00% and an E-value of 4e-109, indicating a strong match.
+
+
+
+
+
+
+# Sequence 2
+
+1 CTCGAGGGGC CTAGACATTG CCCTCCAGAG AGAGCACCCA ACACCCTCCA GGCTTGACCG
+61 GCCAGGGTGT CCCCTTCCTA CCTTGGAGAG AGCAGCCCCA GGGCATCCTG CAGGGGGTGC
+121 TGGGACACCA GCTGGCCTTC AAGGTCTCTG CCTCCCTCCA GCCACCCCAC TACACGCTGC
+181 TGGGATCCTG GATCTCAGCT CCCTGGCCGA CAACACTGGC AAACTCCTAC TCATCCACGA
+
+
+# Type of sequence:
+
+DNA (contains A, T, G, C only)
+
+
+# BLAST Tool Selection
+
+BLAST program used:
+
+BLASTn for DNA sequences
+
+
+# BLAST Results 
+
+(Top Hit Analysis)
+
+
+Gene or protein name: Homo sapiens insulin (INS) gene
+
+Organism name: Homo sapiens
+
+Database used : core_nt
+
+Percentage identity:100.00%
+
+E-value:4e-120
+
+
+# Alignment Interpretation
+
+Matching Regions
+
+Aligned range: 1–240 bp
+
+Identities: 240/240 (100%)
+
+This means every nucleotide in this 240 bp region matches perfectly with Homo sapiens insulin gene
+
+ Gaps or mismatches
+
+Gaps: 0/240 (0%)
+
+Mismatches: None
+
+The alignment lines show continuous |||||, confirming no substitutions, insertions, or deletions
+
+
+#  Biological Function
+
+The INS gene produces insulin, a hormone that controls blood sugar levels by helping cells absorb glucose.
+
+Description:
+Insulin helps regulate glucose metabolism and maintains energy balance in the body.
+
+Functional category:
+Metabolic; Disease-related (linked to diabetes) 
+
+
+# Classification & Interpretation
+
+
+
+
+
+
+
+
+
 
 
   
