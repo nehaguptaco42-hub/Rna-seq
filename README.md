@@ -243,5 +243,48 @@ Specificity of primersPrimer pairs are specific to input template as no other ta
 
 ![Screenshot 2026-01-19 200051](https://github.com/user-attachments/assets/61f1f5e9-d92f-44e0-8e93-eb7cc18fc51a)
 
-  
+
+
+
+#  Identify an Unknown Biological
+Sequence Using BLAST 
+
+Sequence Observation
+
+Given sequence number (Sequence 1):
+1 CGGACACACAAAAAGAAAGAAGAATTTTTA GGATCTTTTGTGTGCGAATAACTATGAGGA
+61 AGATTAATAATTTTCCTCTCATTGAAATTTATATCGGAATTTAAATTGAAATTGTTACTG
+121 TAATCACACCTGGTTTGTTTCAGAGCCACATCACAAAGATAGAGAACAACCTAGGTCTCC
+181 GAAGGGAGCAAGGGCATCAGTGTGCTCAGTTGAAAATCCC 
+
+
+# Type of sequence:
+
+DNA (contains A, T, G, C only)
+
+OR Protein (contains amino acid letters like M, L, K, W)
+
+
+# BLAST Tool Selection
+
+BLAST program used:
+
+BLASTn for DNA sequences
+
+BLASTp for protein sequences 
+
+
+# BLAST Results 
+
+(Top Hit Analysis)
+
+Gene or protein name:
+
+Organism name : Zaire ebolavirus
+
+Database used (e.g., nr, RefSeq)
+
+Percentage identity :100.00%
+
+E-value: 4e-109
   
