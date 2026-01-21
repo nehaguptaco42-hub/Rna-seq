@@ -1,5 +1,5 @@
 # Rna-seq
-notes regarding ngs analysis jan26
+
 
 #Workflow used for rna seq analysis using galaxy
 
