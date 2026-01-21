@@ -355,6 +355,9 @@ BLAST program used:
 
 BLASTn for DNA sequences
 
+![Screenshot 2026-01-21 225319](https://github.com/user-attachments/assets/844323e3-cf67-435d-98a4-14547cdcaf63)
+
+
 
 # BLAST Results 
 
@@ -370,6 +373,8 @@ Database used : core_nt
 Percentage identity:100.00%
 
 E-value:4e-120
+
+![Screenshot 2026-01-21 225357](https://github.com/user-attachments/assets/8ad49581-c154-4936-989a-9d8912fe7bda)
 
 
 # Alignment Interpretation
@@ -389,6 +394,9 @@ Gaps: 0/240 (0%)
 Mismatches: None
 
 The alignment lines show continuous |||||, confirming no substitutions, insertions, or deletions
+
+![Screenshot 2026-01-21 225450](https://github.com/user-attachments/assets/8d9ed517-f00f-47af-8b59-efecc64cbe21)
+
 
 
 #  Biological Function
