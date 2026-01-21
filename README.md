@@ -249,6 +249,17 @@ Specificity of primersPrimer pairs are specific to input template as no other ta
 #  Identify an Unknown Biological
 Sequence Using BLAST 
 
+1.Go to website https://blast.ncbi.nlm.nih.gov
+
+2. Open the correct BLAST program [DNA BLASTn    Protein BLASTp]
+
+3. Paste the sequence into the “Enter Query Sequence” box
+ 
+4. Keep all settings default 
+
+5.  Click BLAST
+
+
 Sequence Observation
 
 Given sequence number (Sequence 1):
