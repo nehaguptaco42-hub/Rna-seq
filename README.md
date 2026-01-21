@@ -331,7 +331,7 @@ The sequence is species-specific, as it shows a 100% match to the Zaire ebolavir
 #  Final Conclusion 
 
 
-The given unknown sequence is identified as gene from Zaire ebolavirus organism. BLAST analysis shows a % identity of 100.00% and an E-value of 4e-109, indicating a strong match.” 
+The given unknown sequence is identified as gene from Zaire ebolavirus organism. BLAST analysis shows a % identity of 100.00% and an E-value of 4e-109, indicating a strong match.
 
 
   
