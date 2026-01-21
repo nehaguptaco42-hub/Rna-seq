@@ -464,7 +464,54 @@ E-value: 2e-44
 
 # Alignment Interpretation
 
-Matching Regions
+Matching regions:
+
+Aligned region: amino acids 99–190
+
+Alignment length: 92 amino acids
+
+Identities: 74/92 (80% identical)
+
+
+# Gaps or mismatches:
+
+Gaps: 0/92 (no gaps)
+
+Mismatches: Present (since identity is 80%, about 18 residues differ)
+
+
+![Screenshot 2026-01-21 234332](https://github.com/user-attachments/assets/64b8f624-f52a-44c3-9097-467bb11975a5)
+
+
+# Biological role 
+
+The protein gp160 is an envelope glycoprotein of HIV-1 that helps the virus attach to and enter human host cells.
+
+
+Metabolism: No
+
+Disease: Yes — essential for HIV infection and pathogenesis
+
+Structural function: Yes — forms part of the viral envelope
+
+Regulation: No
+
+
+# Classification & Interpretation 
+
+Type: Protein : envelope glycoprotein gp160
+
+Organism type: Neither prokaryotic nor eukaryotic — it is viral (HIV-1)
+
+Conservation: Conserved among HIV strains
+
+Species-specific: Yes — specific to HIV-1, not found in normal host cells
+
+
+# Conclusion
+
+The given unknown sequence is identified as protein from HIV1 virus organism. BLAST analysis shows a % identity of 80.43% and an E-value of 2e-44 indicating a strong match
+
 
 
 
