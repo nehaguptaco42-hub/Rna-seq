@@ -277,7 +277,7 @@ BLASTn for DNA sequences
 
 (Top Hit Analysis)
 
-Gene or protein name:Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-BDBV_GP
+Gene name:Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-BDBV_GP
 
 Organism name : Zaire ebolavirus
 
@@ -364,7 +364,7 @@ BLASTn for DNA sequences
 (Top Hit Analysis)
 
 
-Gene or protein name: Homo sapiens insulin (INS) gene
+Gene name: Homo sapiens insulin (INS) gene
 
 Organism name: Homo sapiens
 
@@ -420,6 +420,52 @@ Conservation: Conserved across species
 # Conclusion
 
 The given unknown sequence is identified as  Homo sapiens insulin (INS) gene from Homo sapien organism. BLAST analysis shows a % identity of 100.00% and an E-value of 4e-120 indicating a strong match
+
+
+
+# Sequence 3
+
+MAGRSGDSDEDLLKAVRGIRGQYGTIYSLIEESQNQQEKNEQELLELDKW
+ASLWNWFDITNWLWYIKIFIMIVGGLIGLRIVFAVLSIVNRVRQGYSPLS
+
+
+# Type of sequence
+
+Protein
+
+# BLAST Tool Selection
+
+BLAST program used:
+
+BLASTp for protein sequences
+
+![Screenshot 2026-01-21 234244](https://github.com/user-attachments/assets/3a9c1878-33f0-49b6-a3dd-8222ea8f3096)
+
+
+
+
+# BLAST Results 
+
+(Top Hit Analysis)
+
+
+protein name:  Envelope glycoprotein gp160,Envelope glycoprotein gp160 
+
+Organism name: Human immunodeficiency virus 1
+
+Database used : core_nt
+
+Percentage identity: 80.43%
+
+E-value: 2e-44
+
+![Screenshot 2026-01-21 234310](https://github.com/user-attachments/assets/ab637aef-c8d2-4ac2-93d6-91285ffc7888)
+
+
+# Alignment Interpretation
+
+Matching Regions
+
 
 
 
