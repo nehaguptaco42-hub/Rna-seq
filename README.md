@@ -1,4 +1,4 @@
-<img width="1825" height="880" alt="image" src="https://github.com/user-attachments/assets/161a3174-d41c-46e8-bfce-6a4c3c54e6d6" /># Rna-seq
+# Rna-seq
 notes regarding ngs analysis jan26
 
 #Workflow used for rna seq analysis using galaxy
