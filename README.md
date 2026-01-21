@@ -273,18 +273,23 @@ BLASTn for DNA sequences
 
 BLASTp for protein sequences 
 
+![Screenshot 2026-01-21 212237](https://github.com/user-attachments/assets/b1e5eec7-a7ab-46fe-a4d1-4481fe68805f)
+
 
 # BLAST Results 
 
 (Top Hit Analysis)
 
-Gene or protein name:
+Gene or protein name:Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-BDBV_GP, complete genome
 
 Organism name : Zaire ebolavirus
 
-Database used (e.g., nr, RefSeq)
+Database used : core_nt
 
 Percentage identity :100.00%
 
-E-value: 4e-109
+E-value: 4e-109![Screenshot 2026-01-21 212328](https://github.com/user-attachments/assets/de403282-067a-4e09-9071-a7e9f56295dd)
+
+
+
   
