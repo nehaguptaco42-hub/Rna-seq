@@ -1,5 +1,7 @@
 # Rna-seq
 
+Author- Neha Gupta
+
 
 #Workflow used for rna seq analysis using galaxy
 
